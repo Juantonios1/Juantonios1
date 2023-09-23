@@ -9,6 +9,11 @@ Hi there 👋 It's me, Juan!
 
 <p>Welcome to my profile! I am a beginner data scientist with 2 years experience in the field of financial institutions.  I value collaborative and data-driven working environments that aim to build a better future.</p>
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-antonio-s/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@antonio.juan_s)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/juanantoniosuwardi1)
+
+
 ## ⚡🙋‍♂️ About Me
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on Credit Scoring for Financial Institution
